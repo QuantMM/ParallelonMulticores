@@ -20,7 +20,7 @@ About Parallel Computing with R
 About Compute Canada Clusters
 ----------
 
-- Available Clusters: [Compute Canada](https://www.computecanada.ca/research-portal/accessing-resources/available-resources/) and [available schedules] (https://status.computecanada.ca/)
+- Available Clusters: [Compute Canada](https://www.computecanada.ca/research-portal/accessing-resources/available-resources/) and [available schedules](https://status.computecanada.ca/)
 
 - Connecting with [MobaXTerm](https://docs.computecanada.ca/wiki/Connecting_with_MobaXTerm): I found there is more functionality combined into MobaXterm than [PuTTY](https://docs.computecanada.ca/wiki/Connecting_with_PuTTY)
 
